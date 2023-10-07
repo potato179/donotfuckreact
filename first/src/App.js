@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {useState} from "react";
-
+import {useState} from "react"; 
 function App() {
     let post = "LUNA >> DXXT";
     let [a, b] = useState(["오옹! 나이스", "ㄱㅇㅈㅇㄱ", "Osong"]);
